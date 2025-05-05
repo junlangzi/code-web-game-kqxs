@@ -45,8 +45,3 @@ Chạy file **trathuongtudong.php** để trả thưởng ( 1 lần 1 ngày 
 
 <br>
 
-![image](https://raw.githubusercontent.com/junlangzi/code-web-game-kqxs/refs/heads/main/demo/demo1.png)
-
-![image](https://raw.githubusercontent.com/junlangzi/code-web-game-kqxs/refs/heads/main/demo/demo2.png)
-
-![image](https://raw.githubusercontent.com/junlangzi/code-web-game-kqxs/refs/heads/main/demo/demo3.png) ![image](https://raw.githubusercontent.com/junlangzi/code-web-game-kqxs/refs/heads/main/demo/demo4.png)
