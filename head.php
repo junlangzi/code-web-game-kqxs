@@ -52,9 +52,7 @@ if (isset($_SESSION['username'])) {
     echo "<button class='header-btn' onclick='location.href=\"account.php\"'>Tài khoản</button>";
          echo "<button class='header-btn' onclick='location.href=\"bxh.php\"'>Xếp hạng người chơi</button>";
       echo "<button class='header-btn' onclick='location.href=\"history.php\"'>Toàn bộ lịch sử chơi</button>";
-            echo "<button class='header-btn' onclick='location.href=\"https://ditucogivui.com\"'>Website Homepage</button>";
-
-    
+                
     echo "</div>";
 
     // Thông tin người dùng
